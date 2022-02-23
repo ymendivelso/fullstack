@@ -9,7 +9,7 @@ Primero instalar dependencias:
 npm install
 
 ```
-Segundo cambiar datos de conexión a base de datos postgresql en el archivo app.js
+Segundo cambiar datos de conexión a base de datos postgresql y el nombre de la tabla a crear en el archivo app.js
 ```
 
 ```
