@@ -3,6 +3,8 @@
 Prueba fullstack solución Script branch master
 
 ## Pasos para ejecución con Node.js
+
+Carpeta local del proyecto
 ```
 Primero instalar dependencias:
 ```
