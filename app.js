@@ -7,7 +7,7 @@ const pool = new Pool({
     port: 5432,
     user: "postgres",
     database: "fullstack",
-    password: 'yeinerm12'
+    password: '12345'
 });
 
 // NOMBRE QUE VA A TENER LA TABLA
